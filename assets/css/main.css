@@ -2243,7 +2243,7 @@ input, select, textarea {
 
 	#header {
 		position: relative;
-		background-image: url(../images/tuxpi.com.1721748698.JPG);
+		background-image: url(/images/tuxpi.com.1721748698.JPG);
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
