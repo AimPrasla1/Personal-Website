@@ -2243,11 +2243,11 @@ input, select, textarea {
 
 	#header {
 		position: relative;
-		background-image: url(/images/tuxpi.com.1721748698.png);
+		background-image: url(/images/tuxpi.com.1721748698.png)!important;
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
-		color: #fff;
+		color: #ffffff;
 		text-align: center;
 		padding: 7.6em 0 2em 0;
 		cursor: default;
